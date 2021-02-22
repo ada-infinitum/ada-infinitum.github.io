@@ -10,6 +10,3 @@ We are committed to maintaining a low 1% variable fee to maximize delegation rew
 * Private and cold keys only exist on air-gapped, hardware encrypted, cold storage devices.
 * Multi-factor authentication required for login to all nodes.
 * 24/7 monitoring and alerting.
-
----
-> Cardano™ is a trademark of the Cardano Foundation, CHE-184.477.354” Or “Cardano™ is a trademark of Cardano Foundation, CHE-184.477.354, Dammstrasse 16, 6300 Zug, Switzerland, in Switzerland and other countries
