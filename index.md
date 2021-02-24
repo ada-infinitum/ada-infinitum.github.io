@@ -1,4 +1,4 @@
-<img alt="Logo" src="https://ada-infinitum.github.io/ADA-Infinitum-transparent.png" alt="drawing" width="80" style="float: left"/>
+<img alt="Logo" src="https://ada-infinitum.github.io/ADA-Infinitum-transparent.png" alt="drawing" width="110" height="110" style="float: left"/>
 
 # ADA Infinitum
 Providing Cardano™-based solutions, stake pools, and technical assistance.
