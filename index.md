@@ -3,7 +3,7 @@
 Providing Cardano™-based solutions, stake pools, and technical assistance.
 
 ## Stake Pools
-### [INFAR] ADA Infinitum - Arkansas 🐗💎
+### [INFAR] ADA Infinitum - 💎🐗 Arkansas 🐗💎
 The [INFAR] ADA Infinitum - Arkansas stake pool is a bare metal Cardano stake pool that is owned, operated, and hosted in Fort Smith, Arkansas. It is currently the only Cardano stake pool in the greater Arkansas/Oklahoma region. 
 
 We are committed to maintaining as close to a 100% uptime as possible, and maintain a low 1.5% variable fee to maximize rewards to our delegators.
