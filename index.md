@@ -1,6 +1,9 @@
-# ADA Infinitum
+<img alt="Logo" src="https://ada-infinitum.github.io/ADA-Infinitum-transparent.png" alt="drawing" width="80" style="float: left"/>
 
+# ADA Infinitum
 Providing Cardano™-based solutions, stake pools, and technical assistance.
+
+<div style="clear:both"></div>
 
 ## Stake Pools
 ### [INFAR] ADA Infinitum - 💎🐗 Arkansas 🐗💎
