@@ -2,5 +2,6 @@
   "name": "ADA Infinitum",
   "description": "Cardano forever!",
   "ticker": "INF",
-  "homepage": "https://ada-infinitum.github.io/"
+  "homepage": "https://ada-infinitum.github.io/",
+  "adapools": "22895c572806af892f74dc35534975dc"
 }
