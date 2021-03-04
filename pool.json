@@ -1,7 +1,7 @@
 {
-  "name": "ADA Infinitum",
-  "description": "Cardano forever!",
-  "ticker": "INF",
+  "name": "ADA Infinitum - Arkansas",
+  "description": "The first and only locally owned, operated, and hosted stake pool in the Arkansas/Oklahoma region",
+  "ticker": "INFAR",
   "homepage": "https://ada-infinitum.github.io/",
   "adapools": "22895c572806af892f74dc35534975dc"
 }
